@@ -1,0 +1,224 @@
+
+
+#all {
+
+	background-color: #fff;
+	width: 2000px;
+	height: auto;
+	margin:auto;
+	background-color: #fff;
+	font-family: 'Cardo', serif;
+	font-size: 14px;
+
+}
+
+#cabecalho {
+	
+	background: #001b39;
+	height: 100px;
+	position: relative;
+	}
+
+
+#cabecalho img {
+	width: 280px;
+	height:35px;
+	position: absolute;
+	margin-left: 850px;
+	margin-top: 35px;
+	z-index: 10;
+	
+}
+
+#menu {
+
+	background-color: #e6e2e3;
+	height: 35px;
+	padding-top:15px;
+}
+#menu ul{
+	padding-bottom:10px;
+}
+
+#menu li{
+
+	float:left;
+	padding-left:90px;
+	list-style-type: none;
+}
+
+#fotop {
+	background-color: #000;
+	height:276px;	
+
+}
+
+#fotop img {
+		height:350px;
+		
+}
+
+#corpo{
+	background-color: #e6e2e3;
+	height: 777px;
+}
+
+#noticia {
+	backgroun-color: #e6e2e3;
+	height:400px;
+	width:470px;
+	float:left;
+	padding-left: 500px;
+	margin-top:80px;
+
+
+}
+
+#noticia h3 {
+	text-align: center;
+}
+
+#noticia hr {
+	float:left;
+	width: 150px;
+	color: #bbbbbb;
+
+
+}
+
+#noticia span {
+	float:left;
+}
+
+
+.imagemEE h2{
+	margin-top: 160px; 
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.imagemEE p{
+	
+	width:195px;
+}
+
+#imagemDD h2{
+	margin-top: 160px; 
+	font-weight: bold;
+	font-size: 14px;
+}
+
+#imagemDD p{
+	
+	width:195px;
+}
+
+#imagemD h2{
+	margin-top: 160px; 
+	font-weight: bold;
+	font-size: 14px;
+}
+
+#imagemD p{
+	
+	width:195px;
+}
+
+#imagemE h2{
+	margin-top: 160px; 
+	font-weight: bold;
+	font-size: 14px;
+}
+
+#imagemE p{
+	
+	width:195px;
+}
+#publicacoes {
+	background-color: #e6e2e3;
+	height:400px;
+	width:470px;
+	float:right;
+	padding-right:500px;
+	margin-top:80px;
+
+}
+
+#publicacoes h3 {
+	text-align: center;
+	
+
+}
+
+#publicacoes hr {
+	float:left;
+	width: 150px;
+	color: #bbbbbb;
+
+
+
+}
+
+#publicacoes span {
+	float:left;
+}
+
+#contato {
+	background-color: #001b39;
+	height: 115px;
+	
+}
+
+#endereco {
+	padding-left: 730px;
+	float:left;
+
+}
+
+#endereco h2 {
+	color: #fff;
+	font-size:12px;
+	padding-top: 3px;
+	
+}
+
+#endereco p {
+	color: #fff;
+	font-size:12px;
+	padding: -20px;
+		
+}
+
+#telefone {
+	
+	float:left;
+	padding-left: 130px;
+
+}
+
+#telefone h2 {
+	color: #fff;
+	font-size:12px;
+	padding-top: 2px;
+	
+}
+
+#telefone p {
+	color: #fff;
+	font-size:12px;
+	padding: -20px;
+		
+}
+
+#rodape {
+	background-color: #f3f3f3;
+	height: 30px;
+	text-align: center;
+	
+}
+
+#rodape p {
+	padding-top: 05px;
+	margin: 0px;
+	color:#929292;
+}
